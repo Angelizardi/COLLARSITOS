@@ -1,0 +1,48 @@
+body{
+     background: #EB8DB5;
+     font-family: Arial, sans-serif;
+}
+#container{
+      width:1100px;
+      margin:0px auto;
+}
+header{
+       background: #9D7982;
+       height: 100px;
+       width: 100%;
+       margin: 0px;
+       text-align: center;
+       line-height: 100px;
+       color: white;
+}
+nav{
+       background: #9D7982;
+       height: 50px;
+       width: 50%;
+       line-height: 50px;
+       float: center;
+       list-style: none;
+       margin: 10px;
+       line-height: 30px
+       text-align: center;
+       color: pink;
+}
+#clearfix{
+       clear: both;
+}
+section{
+        width: 100%;
+        height: 100px;
+        line-height: 100px;
+        margin:0px;
+        text-align: center;
+        min-height: 500px;
+}
+footer{
+      background-color: black;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 40px;
+      color: white;
+}
